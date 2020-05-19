@@ -1,1 +1,1 @@
-# Image classification on instant noodles.
+# Fine-grained image classification on rpc.
